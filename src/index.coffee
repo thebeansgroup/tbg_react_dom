@@ -9,6 +9,7 @@ module.exports =
   section:    React.DOM.section
   header:     React.DOM.header
   article:    React.DOM.article
+  nav:        React.DOM.nav
   aside:      React.DOM.aside
   form:       React.DOM.form
   h1:         React.DOM.h1
