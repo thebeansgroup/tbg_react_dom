@@ -1,6 +1,6 @@
 {
   "name": "tbg_react_dom",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Decorate the React DOM factories in case they are removed - paranoid much?",
   "main": "./dist/index.js",
   "scripts": {

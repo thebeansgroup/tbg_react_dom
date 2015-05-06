@@ -31,5 +31,6 @@ module.exports = {
   button: React.DOM.button,
   textarea: React.DOM.textarea,
   fieldset: React.DOM.fieldset,
+  select: React.DOM.select,
   option: React.DOM.option
 };
