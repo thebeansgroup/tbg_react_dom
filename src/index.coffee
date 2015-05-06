@@ -30,3 +30,4 @@ module.exports =
   button:     React.DOM.button
   textarea:   React.DOM.textarea
   fieldset:   React.DOM.fieldset
+  option:     React.DOM.option
