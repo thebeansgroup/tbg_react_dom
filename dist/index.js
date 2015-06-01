@@ -5,6 +5,7 @@ React = require('react/addons');
 
 module.exports = {
   ul: React.DOM.ul,
+  ol: React.DOM.ol,
   li: React.DOM.li,
   div: React.DOM.div,
   p: React.DOM.p,
@@ -22,6 +23,7 @@ module.exports = {
   a: React.DOM.a,
   b: React.DOM.b,
   i: React.DOM.i,
+  abbr: React.DOM.abbr,
   span: React.DOM.span,
   img: React.DOM.img,
   small: React.DOM.small,
