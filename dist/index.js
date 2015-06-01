@@ -28,6 +28,7 @@ module.exports = {
   img: React.DOM.img,
   small: React.DOM.small,
   strong: React.DOM.strong,
+  fieldset: React.DOM.fieldset,
   label: React.DOM.label,
   input: React.DOM.input,
   button: React.DOM.button,
