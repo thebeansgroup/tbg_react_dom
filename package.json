@@ -22,6 +22,7 @@
   "dependencies": {
     "codo": "^2.0.11",
     "coffeeify": "^0.7.0",
+    "react": "^0.14.8",
     "semver": "^4.3.3"
   }
 }
