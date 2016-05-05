@@ -12,6 +12,7 @@ module.exports =
   article:    React.DOM.article
   nav:        React.DOM.nav
   aside:      React.DOM.aside
+  footer:     React.DOM.footer
   form:       React.DOM.form
   h1:         React.DOM.h1
   h2:         React.DOM.h2
@@ -32,6 +33,5 @@ module.exports =
   input:      React.DOM.input
   button:     React.DOM.button
   textarea:   React.DOM.textarea
-  fieldset:   React.DOM.fieldset
   select:     React.DOM.select
   option:     React.DOM.option
